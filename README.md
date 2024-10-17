@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-![]([Exemplo imagem id](https://media1.tenor.com/m/tO8jzkUq-6UAAAAd/boyfriend-kisses.gif))
+![](https://media1.tenor.com/m/tO8jzkUq-6UAAAAd/boyfriend-kisses.gif)
