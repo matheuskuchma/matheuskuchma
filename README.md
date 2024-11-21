@@ -5,7 +5,7 @@
 - 💩 Como chegar até mim: matheus.kuchma@escola.pr.gov.br
 - 🥶 Pronomes: Ele/da minha namorada (Amo a Isa 🫀)
 - 🧸 Curiosidade:Não gosto de estrogonofe
-
+- 🔮 https://cursos.alura.com.br/user/matheus-kuchma
 
 
 ![](https://media.tenor.com/6S88HO5ImR8AAAAj/troll-face.gif)
